@@ -6,5 +6,6 @@ userids = {
 [1627890717] = true,  -- ˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞#7418 --
 [1111906411] = true, -------------
 [1710843399] = true, -- Daniel Discord
+[1860766238] = true, --UnHood TEST TEMPORAL
 }
 return userids
