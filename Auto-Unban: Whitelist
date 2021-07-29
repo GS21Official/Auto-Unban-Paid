@@ -1,1 +1,7 @@
 
+userids = {
+[] = true, 
+[] = true,
+[] = true
+}
+return userids
