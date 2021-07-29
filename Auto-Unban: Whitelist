@@ -1,7 +1,9 @@
 
 userids = {
-[] = true, 
-[] = true,
-[] = true
+[1367383725] = true, -- Me (my account got beam lost 9krobux all limiteds and they uploaded porn so now is deleted ;(  )
+[188571259] = true, -- goonie1721
+[2668174563] = true -------------
+[1627890717] = true  -- ˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞#7418 --
+[1111906411] = true -------------
 }
 return userids
