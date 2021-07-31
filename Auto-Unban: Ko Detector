@@ -1,0 +1,3 @@
+if game:GetService("Workspace").Players.Elwatonchis.BodyEffects["K.O"].Value == true then
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Health = 0
+end
