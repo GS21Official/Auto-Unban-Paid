@@ -2,4 +2,5 @@ for l,e in pairs({(function(e,...)local v="This file was obfuscated using PSU Ob
 
 while wait(1) do
 loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/GS21Official/Auto-Unban-Paid/main/Auto-Unban%3A%20Ko%20Detector'))()
+print("test TB")
 end
