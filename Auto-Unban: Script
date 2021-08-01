@@ -1,6 +1,5 @@
 spawn(function()
 if game.PlaceId == 2788229376 then
-wait(10)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GS21Official/Auto-Unban-Paid/main/Auto-Unban%3A%20ToggleSkinnyUI'))()
 end
 end)
