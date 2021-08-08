@@ -8,5 +8,6 @@ userids = {
 [1111906411] = true, -------------
 [1710843399] = true, -- Daniel Discord
 [1542890543] = true, --SoyJacker21
+[955489126] = true, -- elpadrino
 }
 return userids
