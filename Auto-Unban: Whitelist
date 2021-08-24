@@ -11,5 +11,6 @@ userids = {
 [955489126] = true, -- elpadrino
 [1896548769] = true, -- andyman
 [1731761987] = true, --Rigby#9035
+[2343437902] = true, --Cheirmen
 }
 return userids
